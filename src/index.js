@@ -1,4 +1,6 @@
 // Make sure to import React and ReactDOM
+var React = require('react');
+var ReactDOM = require('react-dom');
 
 const BUTCHER_PRODUCTS = [
   'Tenderloin',
